@@ -7,7 +7,7 @@ List of things to do:
 - Get a cup of tea
   - Black tea
   - 8 flavours
-- Finsih JS projects
+- Finish JS projects
 - Redesign websites
 - Finish retail manager app
 
